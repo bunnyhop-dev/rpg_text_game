@@ -92,6 +92,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Created by [bunnyhop-dev](https://github.com/bunnyhop-dev)
 
 ## 🔄 Version History
+- Beta 1.1x0525
+  - Shop (Improve UI, Added Lucky box, Added New Items)
+  - Battle mode (Fix bugs, More Aggressive Enemy)
+  - Added Rest(Recovery HP and Mana)
+  - Inventory (Added support for new items)
+  - Player (Added Equipment and Buff)
+  - Enemy can drop Items and Buff(Gold, EXP)
+
 - Beta
   - Initial release
   - Basic game mechanics

@@ -14,7 +14,7 @@ function Player.new(name)
     maxMana = 50,
     strength = 10,
     defense = 5,
-    gold = 9999999,
+    gold = 100,
     inventory = require('inventory').new(),
     equipment = {
       weapon = nil,
